@@ -19,4 +19,3 @@ A customizable strong password generator built with React. Easily generate secur
 - JavaScript
 - CSS
 
-it clone https://github.com/USERNAME/strong-password-generator.gitcd strong-password-generator
